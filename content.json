@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "title": "Direct TopZorg — Persoonlijke PGB Begeleiding in Rotterdam Rijnmond",
+    "description": "Direct TopZorg biedt professionele, warme en persoonlijke PGB-begeleiding in Rotterdam Rijnmond. Van wooncoaching tot EMDR therapie — wij staan naast u."
+  },
+  "nav": {
+    "links": [
+      { "label": "Over Ons", "href": "#over-ons" },
+      { "label": "Diensten", "href": "#diensten" },
+      { "label": "Werkwijze", "href": "#werkwijze" },
+      { "label": "Regio", "href": "#regio" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "cta": "Neem contact op"
+  },
+  "hero": {
+    "headline": "Zorg die bij u past.",
+    "subheadline": "Direct TopZorg biedt persoonlijke PGB-begeleiding in Rotterdam Rijnmond — met aandacht, kennis en een warm hart voor de mens achter de zorgvraag.",
+    "cta_primary": "Plan een kennismaking",
+    "cta_secondary": "Meer over PGB"
+  },
+  "intro": {
+    "title": "Wat is een Persoonsgebonden Budget?",
+    "description": "Met een PGB houdt u zelf de regie over uw zorg. U kiest wie u begeleidt en hoe. Direct TopZorg helpt u die regie te nemen en te behouden — van het eerste gesprek tot de dagelijkse uitvoering.",
+    "badges": [
+      { "icon": "shield-check", "label": "Erkend zorgaanbieder" },
+      { "icon": "heart-handshake", "label": "Persoonlijke aanpak" },
+      { "icon": "map-pin", "label": "Regio Rotterdam Rijnmond" }
+    ]
+  },
+  "about": {
+    "title": "Wie zijn wij?",
+    "body": "Direct TopZorg is opgericht vanuit een diepe overtuiging: goede zorg begint met écht luisteren. Met jarenlange praktijkervaring in de zorg, begeleiding en coaching staat onze oprichter naast u — niet boven u. Wij werken vanuit Rotterdam Rijnmond en ondersteunen cliënten en gezinnen die recht hebben op kwalitatieve, persoonlijke begeleiding via het PGB-systeem. Onze kracht zit in brede expertise gecombineerd met oprechte menselijkheid.",
+    "highlights": [
+      { "value": "10+", "label": "Jaar zorgervaring" },
+      { "value": "9+", "label": "Specialisaties" },
+      { "value": "100%", "label": "Persoonlijke aandacht" }
+    ]
+  },
+  "services": {
+    "title": "Onze Diensten",
+    "subtitle": "Wij begeleiden u op de gebieden die er voor u toe doen.",
+    "items": [
+      {
+        "id": "wooncoach",
+        "icon": "house",
+        "title": "Wooncoaching",
+        "description": "Begeleiding bij het vinden, behouden en goed bewonen van een zelfstandige woning. Wij helpen u structuur en thuis te vinden."
+      },
+      {
+        "id": "gezinscoach",
+        "icon": "users",
+        "title": "Gezinscoaching",
+        "description": "Ondersteuning voor gezinnen met complexe situaties. Wij versterken de communicatie en helpen patronen doorbreken."
+      },
+      {
+        "id": "toeslagen",
+        "icon": "file-text",
+        "title": "Toeslagen Affaire Zorg",
+        "description": "Gespecialiseerde begeleiding voor families getroffen door de toeslagenaffaire. Praktisch, warm en zonder oordeel."
+      },
+      {
+        "id": "rouw",
+        "icon": "leaf",
+        "title": "Rouw & Verlies",
+        "description": "Begeleiding na verlies — of het nu gaat om overlijden, scheiding of ander verlies. Ruimte voor uw verdriet."
+      },
+      {
+        "id": "weerbaarheid",
+        "icon": "zap",
+        "title": "Weerbaarheids­training",
+        "description": "Training om uw zelfvertrouwen, grenzen en veerkracht te versterken. Voor volwassenen en jongeren."
+      },
+      {
+        "id": "dagbesteding",
+        "icon": "sun",
+        "title": "Dagbesteding",
+        "description": "Zinvolle dagstructuur en activiteiten afgestemd op uw mogelijkheden. Samen zoeken we naar wat bij u past."
+      },
+      {
+        "id": "woonvormen",
+        "icon": "building-2",
+        "title": "Zelfstandig Wonen",
+        "description": "Stap voor stap begeleiden wij u naar een zelfstandige woonsituatie — met praktische en emotionele steun."
+      },
+      {
+        "id": "jeugdzorg",
+        "icon": "star",
+        "title": "Jeugdzorg",
+        "description": "Specialistische begeleiding voor jongeren. Wij sluiten aan bij hun wereld en bouwen samen aan een sterk fundament."
+      },
+      {
+        "id": "emdr",
+        "icon": "eye",
+        "title": "EMDR Therapie",
+        "description": "Gediplomeerde EMDR-begeleiding voor verwerking van traumatische ervaringen. Bewezen, veilig en persoonlijk."
+      },
+      {
+        "id": "ventilerend",
+        "icon": "message-circle",
+        "title": "Ventilerende Gesprekken",
+        "description": "Soms moet u gewoon kunnen praten — zonder oordeel. Onze ventilerende gesprekken bieden ruimte en rust."
+      }
+    ]
+  },
+  "expertise": {
+    "title": "Gespecialiseerde ondersteuning bij de Toeslagenaffaire",
+    "body": "Families getroffen door de toeslagenaffaire dragen een last die vaak onzichtbaar is. De stress, het wantrouwen in instanties, de emotionele en financiële schade — het vraagt om begeleiding die verder gaat dan formulieren invullen. Direct TopZorg begrijpt deze bijzondere situatie van binnenuit. Wij staan naast u: praktisch, warm en zonder oordeel. U hoeft dit niet alleen te dragen.",
+    "cta": "Praat met ons"
+  },
+  "process": {
+    "title": "Hoe werkt het?",
+    "subtitle": "Vier stappen naar de juiste zorg",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Kennismaking",
+        "description": "Een vrijblijvend gesprek. Wij luisteren naar uw situatie, wensen en vragen. Geen drempel, geen verplichting."
+      },
+      {
+        "number": "02",
+        "title": "Zorgplan",
+        "description": "Samen stellen we een persoonlijk zorgplan op dat aansluit bij uw PGB-indicatie en uw persoonlijke doelen."
+      },
+      {
+        "number": "03",
+        "title": "Begeleiding",
+        "description": "We starten de afgesproken begeleiding op een manier die bij u past — thuis, online of op locatie."
+      },
+      {
+        "number": "04",
+        "title": "Evaluatie",
+        "description": "Regelmatig evalueren we samen. Uw situatie verandert — uw zorg past zich aan."
+      }
+    ]
+  },
+  "why": {
+    "title": "Waarom Direct TopZorg?",
+    "reasons": [
+      {
+        "icon": "award",
+        "title": "Gediplomeerd & erkend",
+        "description": "Gecertificeerde begeleiders met bewezen expertise, waaronder als gediplomeerd EMDR-therapeut."
+      },
+      {
+        "icon": "heart",
+        "title": "Menselijk en warm",
+        "description": "Goede zorg begint met een echt gesprek. Geen bureaucratie, maar oprecht menselijk contact."
+      },
+      {
+        "icon": "map-pin",
+        "title": "Lokaal geworteld",
+        "description": "Wij kennen Rotterdam Rijnmond van binnenuit. Onze lokale kennis werkt direct in uw voordeel."
+      },
+      {
+        "icon": "shield",
+        "title": "Vertrouwde continuïteit",
+        "description": "Discretie, betrouwbaarheid en continuïteit staan bij ons voorop. U kunt altijd op ons rekenen."
+      }
+    ]
+  },
+  "region": {
+    "title": "Actief in Rotterdam Rijnmond",
+    "body": "Direct TopZorg is thuis in de regio Rotterdam Rijnmond. Wij zijn dichtbij — dat betekent snel schakelen, u kennen en er zijn wanneer het telt.",
+    "areas": [
+      "Rotterdam", "Schiedam", "Vlaardingen", "Spijkenisse",
+      "Capelle a/d IJssel", "Barendrecht", "Ridderkerk",
+      "Brielle", "Hellevoetsluis"
+    ]
+  },
+  "contact": {
+    "title": "Neem contact op",
+    "body": "Heeft u vragen, of wilt u een vrijblijvend kennismakingsgesprek? Vul het formulier in of bel ons direct. Wij reageren binnen één werkdag.",
+    "phone": "+31 (0)6 00 000 000",
+    "email": "info@directtopzorg.nl",
+    "form_labels": {
+      "name": "Uw naam",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer (optioneel)",
+      "message": "Uw bericht",
+      "subject": "Onderwerp",
+      "subject_options": [
+        "Kennismaking",
+        "Informatie over PGB",
+        "Toeslagenaffaire",
+        "Overige vraag"
+      ],
+      "submit": "Verstuur bericht",
+      "privacy": "Ik ga akkoord met de verwerking van mijn gegevens conform de privacyverklaring."
+    }
+  },
+  "footer": {
+    "tagline": "Zorg met hart, in Rotterdam Rijnmond.",
+    "copyright": "© 2025 Direct TopZorg. Alle rechten voorbehouden."
+  }
+}
